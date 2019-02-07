@@ -8,7 +8,8 @@ Attempts at saving the passwords more securely by:-
   1. Salting the passwords
   2. Hashing the newly salted string
 
-Whenever the passwords aree needed to be checked only the final hash value matters.
+Whenever the passwords are needed to be checked only the final hash value matters.
+
 The real password is never stored anywhere over thr disk or main memory.
 
 # Admin User
